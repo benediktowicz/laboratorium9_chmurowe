@@ -1,4 +1,4 @@
-# Laboratorium 9
+# Laboratorium 9 oraz 10
 ## Darya Benedziktovich
 ## Grupa: TI 6.2
 
